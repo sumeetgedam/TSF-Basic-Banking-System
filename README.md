@@ -13,3 +13,11 @@ Database contains two Tables- Customers Table & history Table
 2. history table records all transfers happened along with their time.  
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+
+<br>
+
+![Screenshot (67)](https://user-images.githubusercontent.com/54938364/161375964-607a3003-006f-4d81-8c61-e7f6f95f7f9b.png)
+
+![Screenshot (68)](https://user-images.githubusercontent.com/54938364/161375975-cbd5b9dd-ccb3-44f3-ac00-f598002f2cd1.png)
+
+![Screenshot (70)](https://user-images.githubusercontent.com/54938364/161375997-978a63e8-0b43-4b05-8969-18509de64a87.png)
