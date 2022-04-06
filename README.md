@@ -21,3 +21,6 @@ Flow of the Website: Home Page > View all Users > Select and View one User > Tra
 ![Screenshot (68)](https://user-images.githubusercontent.com/54938364/161375975-cbd5b9dd-ccb3-44f3-ac00-f598002f2cd1.png)
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/54938364/161375997-978a63e8-0b43-4b05-8969-18509de64a87.png)
+
+![Screenshot (71)](https://user-images.githubusercontent.com/54938364/161925203-7eb1bbeb-5654-47c0-aa81-ca63c662d0b9.png)
+
